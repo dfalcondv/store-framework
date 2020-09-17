@@ -19,6 +19,19 @@
           "font": "t-heading-3"
         }
       },
+      "tab-list.item#home1": {
+        "props": {
+          "tabId": "majorAppliances",
+          "label": "Major Appliances",
+          "defaultActiveTab": true
+        }
+      },
+      "tab-list.item#home2": {
+        "props": {
+          "tabId": "electronics",
+          "label": "Electronics"
+        }
+      },
     "tab-layout#home": {
         "children": [
           "tab-list#home",
