@@ -2,6 +2,7 @@
   "store.product": {
     "children": [
       "breadcrumb",
+      "flex-layout.row#main",
       "flex-layout.row#qty-sku"
     ]
   },
