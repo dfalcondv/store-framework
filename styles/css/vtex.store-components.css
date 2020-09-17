@@ -30,6 +30,7 @@
 .infoCardContainer {
     max-width: 1260px;
     margin: 0 auto;
+    padding: 0;
 }
 
 .infoCardHeadline {
@@ -37,6 +38,6 @@
     font-weight: bold;
 }
 
-.infoCardCallActionContainer:hover {
+.infoCardCallActionContainer :global(.vtex-button):hover {
     color: white;
 }
