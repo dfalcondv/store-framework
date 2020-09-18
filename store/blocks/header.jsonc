@@ -31,7 +31,14 @@
             "inverted": true,
             "sticky": true,
             "fullWidth": false
-        }
+        },
+        "children": [
+            "logo",
+            "header-spacer",
+            "search-bar",
+            "minicart",
+            "login"
+        ]
     },
     "header-row#notification": {
         "children": [
